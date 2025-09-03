@@ -1,0 +1,20 @@
+{
+    "asset": "51bcc401458a5aa448a35b1df64ac229",
+    "fileName": "0198f9c4-73ca-7477-98e5-7f1e68191c91.jpg",
+    "prompt": "I want Game Background in Backery theme or cookie theme",
+    "negativePrompt": "",
+    "model": "d4800c06-1388-4587-b3cd-455b67e220df",
+    "modelName": "Game Backgrounds (SDXL)",
+    "customSeed": -1,
+    "w3CTraceId": "89045e9b63534c4771e1c8f2b7f9af8e",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

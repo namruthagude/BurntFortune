@@ -1,0 +1,20 @@
+{
+    "asset": "51bcc401458a5aa448a35b1df64ac229",
+    "fileName": "0198f9ca-dc93-7ddc-82d8-2aa980e03bf9.jpg",
+    "prompt": "GameOver Pop Up Panel in cookie or backery theme just plain background in 1920 X 1080 resultion with some cookie icons",
+    "negativePrompt": "",
+    "model": "4dc55660-f3eb-42ba-93a4-6261d6b2b8ec",
+    "modelName": "Game UI",
+    "customSeed": -1,
+    "w3CTraceId": "9a4a658e9e19eee1183f6a641fd1003d",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
