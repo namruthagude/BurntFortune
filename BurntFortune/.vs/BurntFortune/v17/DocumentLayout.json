@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\New Games\\BurntFortune\\",
+  "WorkspaceRootPath": "E:\\BurntFortune\\BurntFortune\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\new games\\burntfortune\\assets\\scripts\\waveendui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveendui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\burntfortune\\burntfortune\\assets\\scripts\\ui animations\\menuuianim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui animations\\menuuianim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\New Games\\BurntFortune\\assets\\scripts\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI Animator\\UIAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\new games\\burntfortune\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\New Games\\BurntFortune\\assets\\scripts\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\waveendui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveendui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\new games\\burntfortune\\assets\\scripts\\playerprefsstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\playerprefsstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerprefsstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\New Games\\BurntFortune\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,64 +57,100 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WaveEndUI.cs",
-              "DocumentMoniker": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\WaveEndUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveEndUI.cs",
-              "ToolTip": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\WaveEndUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\WaveEndUI.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwCUAAAApAAAAAAAAAA==",
+              "Title": "MenuUIAnim.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T06:52:58.77Z",
+              "WhenOpened": "2026-04-15T08:23:54.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerPrefsStrings.cs",
-              "DocumentMoniker": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\PlayerPrefsStrings.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPrefsStrings.cs",
-              "ToolTip": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\PlayerPrefsStrings.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerPrefsStrings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UIAnimator.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Animator\\UIAnimator.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T06:15:19.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cookie.cs",
-              "DocumentMoniker": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\Cookie.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Cookie.cs",
-              "ToolTip": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\Cookie.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Cookie.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAewCAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T17:26:39.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T11:37:13.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABOAAAAAAAAAA==",
+              "Title": "MenuUI.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\MenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuUI.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\MenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T17:26:28.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T18:22:20.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "WaveEndUI.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\WaveEndUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveEndUI.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\WaveEndUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveEndUI.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T06:52:58.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerPrefsStrings.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\PlayerPrefsStrings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPrefsStrings.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\PlayerPrefsStrings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPrefsStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T06:15:19.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cookie.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\Cookie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cookie.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\Cookie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cookie.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:26:39.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:26:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAwwKEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,16 +158,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HUDUI.cs",
-              "DocumentMoniker": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\HUDUI.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\HUDUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HUDUI.cs",
-              "ToolTip": "E:\\New Games\\BurntFortune\\Assets\\Scripts\\HUDUI.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\HUDUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\HUDUI.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAqwEoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T17:10:23.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T17:10:23.514Z"
             }
           ]
         }
