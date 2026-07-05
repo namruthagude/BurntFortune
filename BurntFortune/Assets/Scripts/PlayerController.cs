@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -10,6 +11,8 @@ public class PlayerController : MonoBehaviour
     public float MinYValue;
     public float MaxXValue;
     public float MinXValue;
+    [SerializeField]
+    private float rotSpeed = 1f;
     float mouseX;
     float mouseY;
     Vector3 mousePos;
@@ -46,8 +49,8 @@ public class PlayerController : MonoBehaviour
         
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-      
-        transform.rotation = Quaternion.Euler(0, 0, angle);
+        transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.Euler(0, 0, angle), rotSpeed * Time.deltaTime);
+        //transform.rotation = Quaternion.Euler(0, 0, angle);
 
       
         if (Input.GetKey(KeyCode.W))
@@ -59,6 +62,7 @@ public class PlayerController : MonoBehaviour
 
             transform.Translate(Vector2.right * PlayerSpeed * Time.deltaTime);
 
+            transform.position = new Vector3(Mathf.Clamp(transform.position.x, MinXValue, MaxXValue), Mathf.Clamp(transform.position.y, MinYValue, MaxYValue), 0);
 
 
         }

@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\BurntFortune\\BurntFortune\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\burntfortune\\burntfortune\\assets\\scripts\\ui animator\\uianimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui animator\\uianimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\burntfortune\\burntfortune\\assets\\scripts\\ui animations\\menuuianim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui animations\\menuuianim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|e:\\burntfortune\\burntfortune\\assets\\scripts\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI Animator\\UIAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|E:\\BurntFortune\\BurntFortune\\assets\\scripts\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7168EC4-498E-C971-DBCE-C7DCA7E66F93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,19 +63,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UIAnimator.cs",
-              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Animator\\UIAnimator.cs",
-              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Animator\\UIAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "MenuUIAnim.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Animations\\MenuUIAnim.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:37:13.457Z",
+              "WhenOpened": "2026-04-15T08:23:54.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UIAnimator.cs",
+              "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "ToolTip": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Animator\\UIAnimator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:37:13.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MenuUI.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\MenuUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuUI.cs",
@@ -79,12 +94,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T18:22:20.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T18:22:20.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WaveEndUI.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\WaveEndUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveEndUI.cs",
@@ -96,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerPrefsStrings.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\PlayerPrefsStrings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPrefsStrings.cs",
@@ -108,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Cookie.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\Cookie.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cookie.cs",
@@ -120,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -132,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -144,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HUDUI.cs",
               "DocumentMoniker": "E:\\BurntFortune\\BurntFortune\\Assets\\Scripts\\HUDUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HUDUI.cs",
